@@ -3,8 +3,7 @@
 #
 # variables needed to be defined in user's playbook
 #
-
-
+prometheus_config_template_path: "../templates/prometheus.yml.j2"
 
 #
 # user-configurable defaults
